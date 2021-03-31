@@ -7,3 +7,6 @@ shopping_list = {
 }
 
 print(shopping_list["yogurt"])
+
+if 5 > 2:
+	print("Five is greater than two!")
