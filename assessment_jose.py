@@ -1,10 +1,6 @@
-# write the names of the boolean operators
+# write the names of the boolean operators and combine conditionl statements
 
-==,
-<,
->,
-<=,
->=,
-!=,
-and,
-or
+one = True
+two = False
+
+print(not (one or two))
