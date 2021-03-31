@@ -3,7 +3,7 @@
 
 class Isobel():
 	def __init__(self, name, date):
-		self.name = name
-		self.date = date
+		self.name = "Isobel"
+		self.date = "6/4/1998"
 
-instance = Isobel("Isobel", "6/4/1998")
+instance = Isobel()
